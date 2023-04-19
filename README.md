@@ -1,2 +1,3 @@
 # JS101_Learning_Javascript
-Javascript assignment
+Javascript assignment of Day 1
+
